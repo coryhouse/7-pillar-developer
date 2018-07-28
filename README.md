@@ -2,6 +2,10 @@
 
 Repo for my [ThatConference Keynote](https://www.thatconference.com/Sessions/Session/12901)
 
+## Feedback
+
+[Feedback form](bit.ly/7pillardev)
+
 ## Books
 
 Here's a few recommended reads that I referenced in the talk.
@@ -31,10 +35,6 @@ Purple Cow
 ## Courses
 
 I have published [many courses on Pluralsight](https://app.pluralsight.com/profile/author/cory-house) on JavaScript, React, .NET, and more. They offer a free trial.
-
-## Feedback
-
-[Feedback form](bit.ly/7pillardev)
 
 ## Contact
 
