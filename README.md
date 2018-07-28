@@ -17,7 +17,7 @@ Maximize your potential
 Crucial Conversations  
 The Happiness Advantage  
 Choose Yourself   
-Leaders Eat Last 
+Leaders Eat Last  
 How to Win Friends and Influence People  
 The Power of Habit  
 Deep Work  
