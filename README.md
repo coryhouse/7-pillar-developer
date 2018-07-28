@@ -14,8 +14,10 @@ Decide
 How to Fail at Everything and Still Win Big  
 Essentialism  
 Maximize your potential  
+The Happiness Advantage  
 Choose Yourself 
 Leaders Eat Last 
+The Power of Habit  
 Deep Work  
 30 Lessons for Living   
 So Good They Can't Ignore You  
