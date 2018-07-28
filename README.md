@@ -13,7 +13,8 @@ Here's a few recommended reads that I referenced in the talk.
 Decide   
 How to Fail at Everything and Still Win Big  
 Essentialism  
-Maximize your potential  
+Ego Is The Enemy  
+Maximize Your Potential  
 Crucial Conversations  
 The Happiness Advantage  
 Choose Yourself   
