@@ -22,7 +22,7 @@ Deep Work
 30 Lessons for Living   
 So Good They Can't Ignore You  
 Mindset   
-Born Stand Up  
+Born Standing Up  
 The Antidote  
 Awaken the Giant Within  
 Abundance   
