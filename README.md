@@ -14,9 +14,11 @@ Decide
 How to Fail at Everything and Still Win Big  
 Essentialism  
 Maximize your potential  
+Crucial Conversations
 The Happiness Advantage  
 Choose Yourself 
 Leaders Eat Last 
+How to Win Friends and Influence People
 The Power of Habit  
 Deep Work  
 30 Lessons for Living   
