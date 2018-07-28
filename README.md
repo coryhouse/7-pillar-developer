@@ -18,7 +18,7 @@ Choose Yourself
 Leaders Eat Last 
 Deep Work  
 30 Lessons for Living   
-So Good They Can't Ignore You
+So Good They Can't Ignore You  
 Mindset   
 Born Stand Up  
 The Antidote  
