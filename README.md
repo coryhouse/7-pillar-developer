@@ -14,7 +14,7 @@ Decide
 How to Fail at Everything and Still Win Big  
 Essentialism  
 Maximize your potential  
-Crucial Conversations
+Crucial Conversations  
 The Happiness Advantage  
 Choose Yourself   
 Leaders Eat Last 
