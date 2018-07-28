@@ -16,9 +16,9 @@ Essentialism
 Maximize your potential  
 Crucial Conversations
 The Happiness Advantage  
-Choose Yourself 
+Choose Yourself   
 Leaders Eat Last 
-How to Win Friends and Influence People
+How to Win Friends and Influence People  
 The Power of Habit  
 Deep Work  
 30 Lessons for Living   
