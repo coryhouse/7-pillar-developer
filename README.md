@@ -37,14 +37,14 @@ Purple Cow
 
 ## A few ideas for next steps
 
-Get one of the books above from Audible or your local library
-Schedule lunch and learn
-Join a local meetup
-Schedule a lunch with someone
-Write first blog post on Medium
-Create an info stream for your focus
-Buy time: Schedule lawnmowing service, etc.
-Join the gym
+Get one of the books above from Audible or your local library  
+Schedule lunch and learn  
+Join a local meetup  
+Schedule a lunch with someone  
+Write first blog post on Medium  
+Create an info stream for your focus  
+Buy time: Schedule lawnmowing service, etc.  
+Join the gym  
 
 ## Slides
 
