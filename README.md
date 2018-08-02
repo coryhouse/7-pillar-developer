@@ -4,7 +4,7 @@ Repo for my [ThatConference Keynote](https://www.thatconference.com/Sessions/Ses
 
 ## Feedback
 
-[Feedback form](bit.ly/7pillardev)
+[I'd love to hear your feedback](bit.ly/7pillardev)!
 
 ## Books
 
