@@ -1,7 +1,5 @@
 # The 7 Pillar Developer
 
-Repo for my [ThatConference Keynote](https://www.thatconference.com/Sessions/Session/12901)
-
 ## Interested in the Upcoming Book?
 
 [Sign up for the mailing list](http://bit.ly/7pillardev) (no spam, just occasional updates as it's published)
