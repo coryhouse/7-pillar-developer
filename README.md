@@ -35,16 +35,27 @@ When Breath Becomes Air
 The Antidote   
 Purple Cow
 
+## A few ideas for next steps
+
+Get one of the books above from Audible or your local library
+Schedule lunch and learn
+Join a local meetup
+Schedule a lunch with someone
+Write first blog post on Medium
+Create an info stream for your focus
+Buy time: Schedule lawnmowing service, etc.
+Join the gym
+
 ## Slides
 
 [Slides](https://www.dropbox.com/s/g9iffkcv8rkj95q/The%207%20Pillar%20Developer.pptx?dl=0)
 
 ## Courses
 
-I have published [many courses on Pluralsight](https://app.pluralsight.com/profile/author/cory-house) on JavaScript, React, .NET, and more. They offer a free trial.
+If you enjoyed this, you'd appreciate "[Becoming an Outlier](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind)" on Pluralsight. I have published [many other courses on Pluralsight](https://app.pluralsight.com/profile/author/cory-house) on JavaScript, React, .NET, and more. They offer a free trial.
 
 ## Contact
 
-[@housecor on Twitter](http://twitter.com/housecor)
+Email cory@reactjsconsulting.com or [@housecor on Twitter](http://twitter.com/housecor)
 
 
