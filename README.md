@@ -19,6 +19,7 @@ Ego Is The Enemy
 Maximize Your Potential  
 Crucial Conversations  
 The Happiness Advantage  
+Quitter  
 Choose Yourself   
 Leaders Eat Last  
 How to Win Friends and Influence People  
