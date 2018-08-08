@@ -2,11 +2,11 @@
 
 ## Interested in the Upcoming Book?
 
-[Sign up for the mailing list](http://bit.ly/7pillardev) (no spam, just occasional updates as it's published)
+[Sign up for the mailing list](https://docs.google.com/forms/d/e/1FAIpQLScq4ipx1Qgi45GIbwL02UauwxDo2rsuCnyAoXc3O8_yT8EYHA/viewform?usp=sf_link) (no spam, just occasional updates as it's published)
 
 ## Feedback
 
-[I'd love to hear your feedback](http://bit.ly/7pillardev)!
+[I'd love to hear your feedback](https://docs.google.com/forms/d/e/1FAIpQLScq4ipx1Qgi45GIbwL02UauwxDo2rsuCnyAoXc3O8_yT8EYHA/viewform?usp=sf_link)!
 
 ## Books
 
