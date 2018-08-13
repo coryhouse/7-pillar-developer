@@ -34,8 +34,7 @@ The Antidote
 Awaken the Giant Within  
 Abundance   
 Fooled by Randomness   
-When Breath Becomes Air  
-The Antidote   
+When Breath Becomes Air    
 Purple Cow
 
 ## A few ideas for next steps
