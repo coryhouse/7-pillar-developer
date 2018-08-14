@@ -10,7 +10,7 @@
 
 ## Books
 
-Here's a few recommended reads that I referenced in the talk.
+Here's a few recommended reads that helped inspire the talk.
 
 - [How to Fail at Everything and Still Win Big](https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big)
 - [Essentialism](https://www.goodreads.com/book/show/18077875-essentialism)
