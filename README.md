@@ -20,13 +20,13 @@ Decide
 
 [Ego Is The Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
 
-Maximize Your Potential  
+[Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential?from_search=true)
 
 [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 
 [The Happiness Advantage](https://www.goodreads.com/book/show/9484114-the-happiness-advantage)
 
-Quitter  
+[Quitter](https://www.goodreads.com/book/show/10836740-quitter)  
 
 [Choose Yourself](https://www.goodreads.com/book/show/17977529-choose-yourself)
 
@@ -48,11 +48,9 @@ Quitter
 
 [Born Standing Up](https://www.goodreads.com/book/show/773858.Born_Standing_Up)
 
-The Antidote
-
 [Awaken the Giant Within](https://www.goodreads.com/book/show/22267078-re-awaken-the-giant-within)
 
-Abundance
+[Abundance](https://www.goodreads.com/book/show/13187824-abundance)
 
 [Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
 
