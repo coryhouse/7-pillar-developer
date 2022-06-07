@@ -48,7 +48,7 @@ Join the gym
 
 ## Slides
 
-[Slides](https://www.dropbox.com/s/g9iffkcv8rkj95q/The%207%20Pillar%20Developer.pptx?dl=0)
+[Slides]([https://www.dropbox.com/s/g9iffkcv8rkj95q/The%207%20Pillar%20Developer.pptx?dl=0](https://www.dropbox.com/s/s5z7u86nlltbjn3/Going%20Pro%20-%20The%207%20Pillar%20Developer%20-%20DevUp%202022.pptx?dl=0))
 
 ## Courses
 
