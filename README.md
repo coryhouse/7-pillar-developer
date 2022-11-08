@@ -48,7 +48,7 @@ Join the gym
 
 ## Slides
 
-[Slides]([https://www.dropbox.com/s/6od72emfv0wrgii/The%207%20Pillar%20Developer%20-%20Connecttech%202022.pptx?dl=0)
+[Slides](https://www.dropbox.com/s/6od72emfv0wrgii/The%207%20Pillar%20Developer%20-%20Connecttech%202022.pptx?dl=0)
 
 ## Courses
 
